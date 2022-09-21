@@ -1,0 +1,17 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+crim,per capita crime rate by town,Quantitative,Used for data analysis
+zn,"proportion of residential land zoned for lots over 25,000 sq.ft.",Quantitative,Used for data analysis
+indus,proportion of non-retail business acres per town,Quantitative,Used for data analysis
+Chas,Charles River dummy variable (= 1 if tract bounds river; 0 otherwise),Nominal,Irrelevant
+nox,nitrogen oxides concentration (parts per 10 million),Quantitative,Used for data analysis
+rm,average number of rooms per dwelling,Quantitative,Used for data analysis
+age,proportion of owner-occupied units built prior to 1940,Quantitative,Used for data analysis
+dis,weighted mean of distances to five Boston employment centers,Quantitative,Used for data analysis
+rad,index of accessibility to radial highways,Nominal,Irrelevant
+tax,"full-value property-tax rate per $10,000",Quantitative,Used for data analysis
+ptratio,pupil-teacher ratio by town,Quantitative,Used for data analysis
+black,1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town,Quantitative,Used for data analysis
+lstat,lower status of the population (percent),Quantitative,Used for data analysis
+medv,median value of owner-occupied homes in $1000s,Quantitative,Used for data analysis

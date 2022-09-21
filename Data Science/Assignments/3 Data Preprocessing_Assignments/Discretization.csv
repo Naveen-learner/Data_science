@@ -1,0 +1,9 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+Id,shows only particular value to recognize,Nominal,Irrelevant
+Sepal.length,measures sepal length,Quantitative,Used for data analysis
+Sepal.breadth,measures sepal breadth,Quantitative,Used for data analysis
+Petal.Length,petal length,Quantitative,Used for data analysis
+Petal.breadth,petal breadth,Quantitative,Used for data analysis
+species,setosa,Nominal,Irrelevant

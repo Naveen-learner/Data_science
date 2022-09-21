@@ -1,0 +1,9 @@
+S.No,Name of feature,Description,Type,Relevance
+1,Speed,measures how much distance and time (speed = dist/time),Quantitative,used for data analysis
+2,Distance,measures between two points/measures how long it is travelled,Quantitative,used for data analysis
+,,,,
+,,,,
+,,,,
+S.No,Name of feature,Description,Type,Relevance
+1,SP (Top speed),measures maximum speed vehicle travelling,Quantitative,used for data analysis
+2,WT (Weight),mass or the quantity of matter contained ,Quantitative,used for data analysis

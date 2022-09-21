@@ -1,0 +1,15 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+Id,shows only particular value to recognize,Nominal,Irrelevant
+square.length,measures sqaure length,Quantitative,Used for data analysis
+square.breadth,measures sqaure breadth,Quantitative,Used for data analysis
+rec.Length,recorded length,Quantitative,Used for data analysis
+rec.breadth,recorded breadth,Quantitative,Used for data analysis
+colour,recognise colour,Nominal,Irrelevant
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
