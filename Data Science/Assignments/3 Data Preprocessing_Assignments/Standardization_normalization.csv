@@ -1,0 +1,11 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+Area,the total space taken up by a flat (2-D) surface or shape of an object,Quantitative,Relevant for data analysis
+Perimeter,the continuous line forming the boundary of a closed geometrical figure,Quantitative,Relevant for data analysis
+Compactness,the quality of using very little space,Quantitative,Relevant for data analysis
+Length,Side of an object,Quantitative,Relevant for data analysis
+Width,Side of an object,Quantitative,Relevant for data analysis
+Assymetry_coeff,the degree of asymmetry of the curve,Quantitative,Relevant for data analysis
+len_ker_grove,length of kernel groove,Quantitative,Relevant for data analysis
+Type,Identificationof which type it belongs,Quantitative,Relevant for data analysis

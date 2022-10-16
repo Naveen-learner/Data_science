@@ -1,0 +1,5 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+Weight gained (grams),how much weight gained?,Quantitative,Relevent
+Calories Consumed,how many calories are consumed?,Quantitative,Relevent

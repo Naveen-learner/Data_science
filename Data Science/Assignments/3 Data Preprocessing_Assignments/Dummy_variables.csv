@@ -1,0 +1,8 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+Index,Position,Nominal,Irrelevant
+Animals,Types of animals used in this analysis,Nominal,Irrelevant
+Gender,Male or female,Nominal,Irrelevant
+Homly,Are they comfortable in house environment?,Nominal,Irrelevant
+Types,which type of animal it is?,Nominal,Irrelevant

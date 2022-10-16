@@ -1,0 +1,10 @@
+Data Pre-Processing Outliers treatment,,,
+,,,
+Name of feature,Description,Type,Relevance
+CASENUM ,case number,Nominal,"Irrelevant, it’s a Id no to find out"
+ATTORNEY,Whether the claimant is represented by an attorney  (=0 if yes and =1 if no),Nominal,Relevant
+CLMSEX,claimant's gender,Nominal,Relevant
+CLMINSUR,Whether or not the driver of the claimant’s vehicle was uninsured,Nominal,Relevant
+SEATBELT,Whether or not the claimant was wearing a seatbelt/child restraint,Nominal,Relevant
+CLMAGE,Claimant’s age,Quantitative,Relevant
+LOSS,he claimant’s total economic loss (in thousands),Quantitative,Relevant
